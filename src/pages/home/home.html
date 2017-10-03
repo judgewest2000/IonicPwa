@@ -13,6 +13,16 @@
 </ion-header>
 
 
-<ion-content padding>
-    <button ion-button (click)="gotoCamera();">Go To Camera</button>
+<ion-content>
+    <ion-list>
+        <button ion-item (click)="gotoCamera();">
+        <h2>Go to Camera</h2>
+        <p>Camera Implementation to extract the base64 string from input file</p>
+      </button>
+        <button ion-item (click)="gotoScrollContent();">
+        <h2>Scrolling Example</h2>
+        <p>For a PWA app, see a method of making the screen not STICK on iOS</p>
+      </button>
+    </ion-list>
+
 </ion-content>
