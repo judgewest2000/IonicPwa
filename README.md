@@ -5,7 +5,7 @@ This contains various PWA examples for a successul website / home screen link PW
 
 Clone, cd into the directory.  npm install, ionic serve.
 
-Browse to it from iOS Safari,a dd the link to your iOS device as a home screen link and launch from there.
+Browse to it from iOS Safari, add the link to your iOS device as a home screen link and launch from there.
 
 You can see a couple examples of how to...
 
