@@ -22,7 +22,7 @@ export class CameraPage {
 
   @ViewChild('imgresult') imgResult: ElementRef;
 
-  img: string = '';
+  img = '';
 
   displayCard() {
     return this.img !== '';
